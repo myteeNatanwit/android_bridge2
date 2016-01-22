@@ -1,0 +1,7 @@
+<resources>
+    <style name="AppTheme" parent="android:Theme.Light" />
+    <style name = "NoActionBar" parent = "@android:style/Theme.Light">
+
+        <item name = "android:windowNoTitle">true</item>
+    </style>
+</resources>
